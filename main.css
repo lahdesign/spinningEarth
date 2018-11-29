@@ -1,0 +1,21 @@
+html {
+    background-color: #0E4062;
+    background-image: linear-gradient(to top, #0b3554, #0e4062);
+  }
+  
+  html,
+  body {
+    height: 100%;
+  }
+  
+  body {
+    display:flex;
+    align-items:center;
+    justify-content:center;
+  }
+  
+  svg {
+    /* makes the animation responsive */
+    max-width: 100%;
+    width: 140px;
+  }
