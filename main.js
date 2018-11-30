@@ -1,3 +1,4 @@
+console.log('got here')
 function spinGlobe() {
   var tmax_tl = new TimelineMax({
         delay: 0.1675,
@@ -26,3 +27,4 @@ function spinGlobe() {
 }
 
 spinGlobe();
+console.log('got here')
